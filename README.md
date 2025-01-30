@@ -1,2 +1,2 @@
-# Snakes_-_Ladders
+# Snakes and Ladders
 Creating a Snake and Ladders game
